@@ -7,3 +7,8 @@ URL github
 https://github.com/jreyescom/project_sprint_6.git
 
 URL RENDER
+https://project-sprint-6-tumv.onrender.com
+
+ Local URL: http://localhost:8501
+  Network URL: http://10.204.236.22:8501
+  External URL: http://34.211.200.85:8501
